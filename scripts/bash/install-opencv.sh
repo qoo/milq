@@ -74,3 +74,4 @@ sudo ldconfig
 
 # To complete this step, please visit 'http://milq.github.io/install-opencv-ubuntu-debian'.
 sudo apt-get install tmux
+sudo apt-get install htop -y
